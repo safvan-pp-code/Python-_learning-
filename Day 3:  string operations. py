@@ -1,0 +1,10 @@
+# Day 3 - String Operations
+
+name = "Safvan PP"
+place = "Chullikode"
+
+print("Length of name:", len(name))
+print("Uppercase:", name.upper())
+print("Lowercase:", name.lower())
+print("Concatenation:", name + " from " + place)
+print("Repeat:", name * 3)
